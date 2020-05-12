@@ -6,7 +6,7 @@ As part of this project, I will look into current locations of Starbucks, and th
 
 ## Mapping out the locations
 
-Below I've maped out current locations of Starbucks just to get a sense of how they are located across the US. 
+Below I've maped out current locations of Starbucks in the dataset just to get a sense of how they are located across the US. 
 
 ![StarbucksMap](/images/starbucksMap.png)
 
