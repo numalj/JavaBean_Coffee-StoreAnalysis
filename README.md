@@ -18,4 +18,8 @@ Using census and demographic data, I created boxplots to help compare the differ
 
 As we can see, the results are what we might have already expected. Starbucks are found in zip codes with younger working individuals who are educated and have a higher income. 
 
+## Building the Model (In progress)
+
 Next I'll build a logistic regression module to get the model to predict where a starbucks should be located. Then by looking at zipcodes with highest probability to have a starbucks location but currently don't we can decide where to set up the next JavaBean.
+
+**Currently in Progress: To be continued.....**
